@@ -3,4 +3,4 @@
 <a href="https://www.linkedin.com/in/leoarantesb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## • I'm currently focused on Frameworks for Test Automation
-<h4>Cypress, Robot Framework.<h4>
+<h4>Cypress.<h4>
